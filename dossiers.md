@@ -6,7 +6,7 @@ Il y a quelques dossiers et documents à créer et à fournir, non seulement pou
 optimale et organisée, mais également pour remplir les conditions de présentation à l'examen.
 
 Voici les différents documents attendus :
-- [Support de présentation](#présentation-dun-projet-réalisé-en-amont-de-la-session)
+- [Support de présentation](#support-de-présentation)
 - [Résumé de cahier des charges](#résumé-de-cahier-des-charges)
 - [Dossier professionnel](#dossier-professionnel)
 - [Dossier de projet](#dossier-de-projet)
