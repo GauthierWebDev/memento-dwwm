@@ -107,8 +107,8 @@ _(récupérer les commentaires d'un utilisateur, avec comme information l'id de 
 ## Repo externe exposant plusieurs questions possibles
 Et oui, le développement étant un milieu d'entraide, il est parfois possible de trouver des ressources
 externes qui peuvent nous intéresser !  
-C'est notamment le cas de [ce repo](https://github.com/simplonco/questions-devweb)
-qu'un ancien candidat m'a fait découvrir.
+C'est notamment le cas de [ce repo](https://github.com/simplonco/questions-devweb) qu'un ancien candidat m'a fait
+découvrir.
 
 ---
 
