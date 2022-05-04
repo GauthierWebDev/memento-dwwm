@@ -1,11 +1,9 @@
 [Retourner à l'accueil](./readme.md)
 
 # Questions possibles
-Comme il est impossible de prévoir les questions du jury, j'ai établi une petite liste de questions communes qui
-pourraient vous être posées.
+Comme il est impossible de prévoir les questions du jury, j'ai établi une petite liste de questions communes qui pourraient vous être posées.
 
-Certaines questions "dépassent" le référentiel de certification, mais par précaution, je préfère tout de même les
-inclure.
+Certaines questions "dépassent" le référentiel de certification, mais par précaution, je préfère tout de même les inclure.
 
 N'oublie pas qu'encore une fois, tu as le droit à l'erreur ou de ne pas savoir !  
 Cependant, si tu arrives à répondre à toutes les questions, le TP sera forcément plus facilement validé !
@@ -105,10 +103,8 @@ _(récupérer les commentaires d'un utilisateur, avec comme information l'id de 
   - https://nextjs.org/
 
 ## Repo externe exposant plusieurs questions possibles
-Et oui, le développement étant un milieu d'entraide, il est parfois possible de trouver des ressources
-externes qui peuvent nous intéresser !  
-C'est notamment le cas de [ce repo](https://github.com/simplonco/questions-devweb) qu'un ancien candidat m'a fait
-découvrir.
+Et oui, le développement étant un milieu d'entraide, il est parfois possible de trouver des ressources externes qui peuvent nous intéresser !  
+C'est notamment le cas de [ce repo](https://github.com/simplonco/questions-devweb) qu'un ancien candidat m'a fait découvrir.
 
 ---
 
