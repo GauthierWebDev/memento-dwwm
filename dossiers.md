@@ -81,7 +81,7 @@ Par contre, tu dois être en mesure d'expliquer le fonctionnement "générique" 
 Heureusement, on ne parle pas uniquement dans ce dossier uniquement de code, mais du projet en général.  
 Si le développement a été fait avec une approche agile, tu peux parler par exemple des sprints qui ont eu lieu, de leur organisation ou de plein d'autres choses !
 
-Comme pour le support de présentation, tu peux faire des captures d'écran, mais assures toi que tout reste lisible pour l'impression du dossier _(zoom, thème clair etc.)_.
+Comme pour le support de présentation, tu peux faire des captures d'écran, mais assures toi que tout reste lisible pour l'impression du dossier _(zoom, thème clair, etc.)_.
 
 En termes de contenu attendu, voici ce qui est indiqué dans le RC _(Référentiel de Certification)_ :
 - Liste des compétences du référentiel qui sont couvertes par le projet _(CP 1 à 8)_
