@@ -17,4 +17,4 @@ pertinentes et méritent le fait d'être prises en compte.
 ## Table des matières
 1. [À quoi ressemble une soutenance ?](./soutenance.md)
 2. [Les dossiers et documents attendus pour ta soutenance](./dossiers.md)
-
+3. [Quelques questions qui peuvent être rencontrées en soutenance](./questions.md)

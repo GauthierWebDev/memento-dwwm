@@ -1,6 +1,6 @@
 [Retourner à l'accueil](./readme.md)
 
-# Les dossiers et documents à fournir
+# Les dossiers et documents attendus pour ta soutenance
 Évidemment une soutenance, on n'y va pas au talent !  
 Il y a quelques dossiers et documents à créer et à fournir, non seulement pour avoir une soutenance
 optimale et organisée, mais également pour remplir les conditions de présentation à l'examen.
