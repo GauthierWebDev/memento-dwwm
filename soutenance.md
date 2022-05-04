@@ -16,7 +16,7 @@ _(aussi bien réalisations personnelles que globales)_ sur le ou les projets que
 Tu as le droit de présenter de un à trois projets à ton jury, à toi de t'organiser le mieux possible pour
 faire en sorte que tout tienne en 35 minutes au niveau de la présentation !
 
-**Note :** Si jamais ta présentation dure moins longtemps que 35 minutes, le temps "manquant" ne prolonge
+> **Note :** Si jamais ta présentation dure moins longtemps que 35 minutes, le temps "manquant" ne prolonge
 pas les autres modalités. Autant te dire qu'il est préférable de durer 35 minutes plutôt que 20 minutes
 pour t'assurer que le jury ait le plus d'informations dès le début !
 
@@ -37,7 +37,7 @@ renferme surtout pas sur toi !
 Si tu connais la réponse _(ou pense la connaître)_, n'hésite pas à leur répondre.  
 Par contre, si tu es certain de ne pas avoir la réponse, tu as évidemment le droit de ne pas savoir.
 
-**Note :** Tout comme pour la première modalité _(Présentation d'un projet réalisé en amont de la session)_,
+> **Note :** Tout comme pour la première modalité _(Présentation d'un projet réalisé en amont de la session)_,
 le temps non exploité ne sera pas attribué pour la dernière modalité.
 
 À l'issue de cette modalité viendra l'entretien final.
@@ -85,8 +85,8 @@ Toutefois, il est bon de noter quelques informations pratiques :
   les 12 mois qui suivent l'officialisation de ton résultat à la soutenance que tu viens de passer.
 - Si tu valides un CCP _(Certificat de Compétences Professionnelles)_, tu recevras un petit papier
   attestant que tu as validé un CCP précis :
-    - Back-end
-    - Front-end
+  - Back-end
+  - Front-end
 
 ---
 
