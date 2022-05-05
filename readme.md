@@ -1,5 +1,5 @@
 # Memento DWWM
-> Le guide de préparation au **titre professionnel DWWM** _(Développeur Web et Web Mobile)_ qui vous veut du bien !
+> Le guide de préparation au **titre professionnel DWWM** _(Développeur Web et Web Mobile)_ qui te veut du bien !
 
 ## Préambule
 Toi qui viens d'arriver sur ce repo Github, sache que si tu cherches un coup de main pour ta préparation au TP DWWM : tu es tombé au bon endroit !
