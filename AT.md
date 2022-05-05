@@ -149,14 +149,62 @@ Mais avant toute chose, je refais le relou de service en te recommandant chaudem
 ### CP 5 - Créer une base de données
 > [REAC _(03/05/2018)_, pages 21 et 22 sur 38](https://www.banque.di.afpa.fr/EspaceEmployeursCandidatsActeurs/EGPResultat.aspx?ct=01280m03&type=t)
 
+Je pense que les mots sont dits : il faut créer une base de données 🙃  
+OK, c'est vrai que si on part de ce principe, la CP est vite complétée et on passerait à la CP 6 de suite, mais ça va plus loin en réalité !
+
+Comme pour la CP 1, on va avant toute chose parler de la conception, soit :
+- MCD _(Modèle Conceptuel des Données)_
+- MLD _(Modèle Logique des Données)_
+- MPD _(Modèle Physique des Données)_
+- DdD _(Dictionnaire des Données)_
+
+Bien qu'il existe des outils qui permettent de créer des MCD assez facilement _([MoCoDo](http://mocodo.wingi.net/) par exemple)_, tu peux très bien faire un MCD à la main, sur un papier !
+
+> **Note :** MoCoDo ne permet pas de vérifier si la structure du MCD est correcte, il faudra alors être sûr de la validité de la structure du MCD.
+
+Une fois que tous ces documents sont créés, tu peux passer sans souci à la CP 6 !
+
 ### CP 6 - Développer les composants d’accès aux données 
 > [REAC _(03/05/2018)_, pages 23 et 24 sur 38](https://www.banque.di.afpa.fr/EspaceEmployeursCandidatsActeurs/EGPResultat.aspx?ct=01280m03&type=t)
+
+Maintenant que tu connais la structure de ta base de données et qu'elle est créée, il va falloir expliquer comment ton application pourra accéder aux données stockées.  
+En PHP, tu connais certainement [PDO](https://www.php.net/manual/fr/book.pdo.php), mais tu as peut-être également utilisé un ORM comme [Eloquent](https://laravel.com/docs/9.x/eloquent) ou encore [Doctrine](https://symfony.com/doc/current/doctrine.html). 
+
+Côté NodeJS, tu pourras également retrouver par exemple [Sequelize](https://sequelize.org/master/manual/getting-started.html) ou encore le query builder [Knex](https://knexjs.org/).
+
+L'idée ici est d'expliquer comment le back va se connecter à la base de données **ET** comment le back est structuré pour accéder aux données.
+
+Tu vas donc avoir très certainement avoir besoin de parler des services et des modèles qui permettent d'accéder aux données et de les altérer.
+
+Comme cette CP _(et les suivantes)_ parlent de sécurité, c'est l'occasion de parler de ton fichier `.env` et du `.gitignore` afin de ne pas avoir de fichiers sensibles dans le repo de ton projet, dont les informations de connexion à la base de données.
+
+> **Note :** Si tu utilises un query builder, attention à bien comprendre ce qu'il fait et d'être en mesure d'expliquer quelle sera la requête SQL générée par le query builder.  
+> Ton jury souhaite que tu maîtrises les requêtes SQL, pas de maîtriser un outil qui fait les requêtes à ta place _(même si ça a un intérêt)_ !
 
 ### CP 7 - Développer la partie back-end d’une application web ou web mobile
 > [REAC _(03/05/2018)_, pages 25 et 26 sur 38](https://www.banque.di.afpa.fr/EspaceEmployeursCandidatsActeurs/EGPResultat.aspx?ct=01280m03&type=t)
 
+En continuité avec la CP 6, tu vas devoir maintenant expliquer comment circule la donnée dans le back de ton application, que ce soit une API ou que ton back serve des pages web.
+
+Concrètement, voici ce qu'il faut couvrir :
+- Les routes et endpoints _(back uniquement !)_
+- Les middlewares _(vérification JWT, accès protégé à un rôle particulier, etc)_
+- Les controllers
+- La récupération des données saisies par l'utilisateur _(avec une mise en place de la sécurité en y intégrant des vérifications et filtres)_
+- La récupération des données stockées dans la base de données et l'altération des données
+- Le formatage de ces données récupérées
+- Le retour de ces données au front _(JSON, variables données à une vue servie par le back, etc)_
+
 ### CP 8 - Élaborer et mettre en œuvre des composants dans une application de gestion de contenu ou e-commerce
 > [REAC _(03/05/2018)_, pages 27 et 28 sur 38](https://www.banque.di.afpa.fr/EspaceEmployeursCandidatsActeurs/EGPResultat.aspx?ct=01280m03&type=t)
+
+Hop hop, je me dédouane de nouveau pour la CP 8 !
+Il s'agit d'une CP qui concerne, tout comme la CP 4, le développement par le biais d'un CMS.
+
+Pour prendre Wordpress en exemple, il est nécessaire ici de **développer** des fonctionnalités **additionnelles** à celles qui existent déjà.  
+Pour résumer une possibilité : la création d'un plugin.
+
+Cette fois-ci, [Strapi](https://strapi.io/) peut totalement être utilisé pour valider cette CP ! 🎉
 
 ---
 
