@@ -24,5 +24,5 @@ _(Si tu as des idées de points à rajouter, n'hésite pas non plus à faire une
 ## Table des matières
 1. [À quoi ressemble une soutenance ?](./soutenance.md)
 2. [Les dossiers et documents attendus pour ta soutenance](./dossiers.md)
-3. [Les différents AT et CP](./AT.md)
+3. [Les différentes AT et CP](./AT.md)
 4. [Quelques questions qui peuvent être rencontrées en soutenance](./questions.md)
