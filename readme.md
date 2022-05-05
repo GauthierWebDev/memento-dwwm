@@ -9,6 +9,18 @@ De cette expérience, je te propose aujourd'hui de voir un peu ce que ce TP repr
 
 Les informations présentes ici ne sont pas exhaustives ou exempts d'erreur, elles sont tout de même pertinentes et méritent le fait d'être prises en compte.
 
+## Checklist
+Évidemment ce n'est pas toujours facile de bien s'organiser ou d'en voir le bout, mais ça peut être simplifié avec un petit outil !  
+🥁🥁🥁  
+Une **checklist** ou bien une **todolist** !
+
+Encore faut-il savoir quoi faire, n'hésite donc pas à bien regarder les différents points ci-dessous et dès que c'est clair pour toi, tu peux essayer mon petit template de todolist 😉
+
+Tu peux le retrouver dans ce repo, ou bien directement en ligne [à cette adresse](https://memento-dwwm.gauthierdaniels.fr/).
+
+Pour le moment, cette checklist est limitée aux points déjà créés dans les fichiers JSON, mais ce sera mis à jour par la suite pour rendre l'outil encore plus flexible.  
+_(Si tu as des idées de points à rajouter, n'hésite pas non plus à faire une issue directement sur ce repo !)_
+
 ## Table des matières
 1. [À quoi ressemble une soutenance ?](./soutenance.md)
 2. [Les dossiers et documents attendus pour ta soutenance](./dossiers.md)
