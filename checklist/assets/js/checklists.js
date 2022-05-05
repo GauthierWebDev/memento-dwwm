@@ -206,8 +206,10 @@ class Checklists {
 	}
 
 	attachButtonsEvents() {
+		// const message = 'Réinitialiser les checklists fera perdre l\'état de votre progression. \n\nVous pouvez toutefois faire un export de l\'état actuel pour stocker ces informations sur votre machine avant de faire un reset !\n\nÊtes-vous sûr de vouloir continuer ?'
+		const message = 'Réinitialiser les checklists fera perdre l\'état de votre progression.\n\nÊtes-vous sûr de vouloir continuer ?'
 		this.resetButton.addEventListener('click', async () => {
-			if (window.confirm('Réinitialiser les checklists fera perdre l\'état de votre progression. \n\nVous pouvez toutefois faire un export de l\'état actuel pour stocker ces informations sur votre machine avant de faire un reset !\n\nÊtes-vous sûr de vouloir continuer ?')) {
+			if (window.confirm(message)) {
 				await this.fetchAll();
 				this.localStorageVersion = null;
 				this.createChecklists();
@@ -215,7 +217,7 @@ class Checklists {
 			}
 		});
 
-		this.exportButton.addEventListener('click', () => this.exportJson());
+		// this.exportButton.addEventListener('click', () => this.exportJson());
 
 		this.alert.addEventListener('click', () => this.alert.classList.remove('alert--visible'));
 

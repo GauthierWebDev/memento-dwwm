@@ -232,8 +232,13 @@ footer {
     color: var(--white);
     padding: .5rem 0;
 }
+footer p {
+    display: flex;
+    align-items: center;
+}
 footer svg {
     color: var(--warning);
+    margin: 0 .25rem;
 }
 footer::before {
     content: '';
