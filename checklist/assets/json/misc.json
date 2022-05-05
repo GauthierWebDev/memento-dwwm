@@ -1,0 +1,83 @@
+{
+  "title": "Divers",
+  "items": [
+    {
+      "title": "Préparation",
+      "items": [
+        {
+          "title": "Ordinateur",
+          "items": [
+            {
+              "label": "Dossiers en PDF pour la soutenance",
+              "checked": false
+            },
+            {
+              "label": "Repositories des projets soutenus devant le jury",
+              "checked": false
+            },
+            {
+              "label": "Support de présentation disponible",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Clé USB",
+          "items": [
+            {
+              "label": "Dossiers en PDF pour la soutenance",
+              "checked": false
+            },
+            {
+              "label": "Repositories des projets soutenus devant le jury",
+              "checked": false
+            },
+            {
+              "label": "Support de présentation disponible",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Drive/Github",
+          "items": [
+            {
+              "label": "Dossiers en PDF pour la soutenance",
+              "checked": false
+            },
+            {
+              "label": "Repositories des projets soutenus devant le jury",
+              "checked": false
+            },
+            {
+              "label": "Support de présentation disponible",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Téléphone",
+          "items": [
+            {
+              "label": "Convocation à la soutenance",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Impressions",
+          "items": [
+            {
+              "label": "Convocation à la soutenance",
+              "checked": false
+            },
+            {
+              "label": "Dossiers pour la soutenance",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

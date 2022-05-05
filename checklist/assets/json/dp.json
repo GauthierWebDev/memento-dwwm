@@ -1,0 +1,141 @@
+{
+  "title": "Dossier professionnel",
+  "items": [
+    {
+      "title": "AT 1 - Développer la partie front-end d’une application web ou web mobile en intégrant les recommandations de sécurité",
+      "items": [
+        {
+          "title": "CP 1 - Maquetter une application",
+          "items": [
+            {
+              "label": "Réalisation du cahier des charges",
+              "checked": false
+            },
+            {
+              "label": "Réalisation des users stories",
+              "checked": false
+            },
+            {
+              "label": "Conception des wireframes desktop avec commentaires",
+              "checked": false
+            },
+            {
+              "label": "Conception des wireframes mobile avec commentaires",
+              "checked": false
+            },
+            {
+              "label": "Réalisation de l'arborescence des pages",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "CP 2 - Réaliser une interface utilisateur web statique et adaptable",
+          "items": [
+            {
+              "label": "Intégration d'une page avec un design responsive",
+              "checked": false
+            },
+            {
+              "label": "Sémantique correcte et valide pour un référencement naturel optimisé",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "CP 3 - Développer une interface utilisateur web dynamique",
+          "items": [
+            {
+              "label": "Intégration d'une page avec un design responsive",
+              "checked": false
+            },
+            {
+              "label": "Sémantique correcte et valide pour un référencement naturel optimisé",
+              "checked": false
+            },
+            {
+              "label": "Mise en place de scripts Javascript pour dynamiser la page côté navigateur",
+              "checked": false
+            },
+            {
+              "label": "Utilisations de méthodes asynchrones (promesses, AJAX, etc.)",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "AT 2 - Développer la partie back-end d’une application web ou web mobile en intégrant les recommandations de sécurité",
+      "items": [
+        {
+          "title": "CP 5 - Créer une base de données",
+          "items": [
+            {
+              "label": "Création d'un MCD",
+              "checked": false
+            },
+            {
+              "label": "Création d'un MLD",
+              "checked": false
+            },
+            {
+              "label": "Création d'un MPD",
+              "checked": false
+            },
+            {
+              "label": "Création d'un DdD",
+              "checked": false
+            },
+            {
+              "label": "Création de la base de données",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "CP 6 - Développer les composants d’accès aux données",
+          "items": [
+            {
+              "label": "Mise en place d'un fichier .env pour les données de connexion à la base de données",
+              "checked": false
+            },
+            {
+              "label": "Mise en place du fichier .gitignore pour ne pas publier le .env",
+              "checked": false
+            },
+            {
+              "label": "Mise en place d'un datamapper/service ou autre solution pour accéder aux données",
+              "checked": false
+            },
+            {
+              "label": "Élaboration et explications sur une requête SQL (avec jointure)",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "CP 7 - Développer la partie back-end d’une application web ou web mobile",
+          "items": [
+            {
+              "label": "Création d'un fichier listant toutes les routes et endpoints de l'application",
+              "checked": false
+            },
+            {
+              "label": "Explications sur le cheminement de la donnée côté back (middlewares, controllers, etc.)",
+              "checked": false
+            },
+            {
+              "label": "Mise en place de la sécurité côté back (formulaires, authentification, etc.)",
+              "checked": false
+            },
+            {
+              "label": "Démonstration d'un test unitaire ou jeu d'essai côté back",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

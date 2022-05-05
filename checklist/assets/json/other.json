@@ -1,0 +1,121 @@
+{
+  "title": "Autres documents",
+  "items": [
+    {
+      "title": "Support de présentation",
+      "items": [
+        {
+          "title": "Présentation personnelle",
+          "items": [
+            {
+              "label": "Pourquoi d'avoir choisi cette reconversion professionnelle",
+              "checked": false
+            },
+            {
+              "label": "Que faisais-tu avant ta reconversion",
+              "checked": false
+            },
+            {
+              "label": "Que comptes-tu faire après ta reconversion",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Contexte du projet",
+          "items": [
+            {
+              "label": "D'où provient l'idée de ce projet",
+              "checked": false
+            },
+            {
+              "label": "Quel(s) problème(s) solutionne ce projet",
+              "checked": false
+            },
+            {
+              "label": "À qui s'adresse ce projet",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Présentation de l'équipe",
+          "items": [
+            {
+              "label": "Qui a travaillé sur ce projet",
+              "checked": false
+            },
+            {
+              "label": "Quels étaient les rôles de chaque personne sur ce projet",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Conception et développement du projet",
+          "items": [
+            {
+              "label": "Quelle méthodologie a été choisie (SCRUM par exemple)",
+              "checked": false
+            },
+            {
+              "label": "Quelles fonctionnalités ont été imaginées pour le MVP",
+              "checked": false
+            },
+            {
+              "label": "Combien de sprints ont été faits et quelles ont été leurs durées",
+              "checked": false
+            },
+            {
+              "label": "Quel gitflow a été utilisé",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Fonctionnalités principales développées",
+          "items": [
+            {
+              "label": "Fonctionnalité côté front",
+              "checked": false
+            },
+            {
+              "label": "Fonctionnalité côté back",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Réalisations personnelles",
+          "items": [
+            {
+              "label": "Explications sur 3 réalisations personnelles",
+              "checked": false
+            },
+            {
+              "label": "Veille technique et sécurité",
+              "checked": false
+            },
+            {
+              "label": "Difficultés rencontrées et solutions trouvées",
+              "checked": false
+            }
+          ]
+        },
+        {
+          "title": "Démonstration et jeu d'essai",
+          "items": [
+            {
+              "label": "Réalisation d'un jeu d'essai sur une fonctionnalité principale",
+              "checked": false
+            },
+            {
+              "label": "Courte démonstration de l'application",
+              "checked": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
