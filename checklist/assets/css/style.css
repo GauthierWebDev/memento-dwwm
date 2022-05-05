@@ -1,3 +1,7 @@
+@import './reset.css';
+@import './vars.css';
+@import './responsive.css';
+
 /** Global */
 body {
     background: var(--white);
@@ -79,6 +83,9 @@ header {
     margin-bottom: 1rem;
     z-index: 5;
 }
+header br {
+    display: none;
+}
 header::before {
     content: '';
     position: absolute;
@@ -147,6 +154,9 @@ main {
     padding: .125rem .25rem;
     border-radius: 2px;
     cursor: pointer;
+}
+.checklist-subcategory input[type=checkbox] {
+    margin-left: 1rem;
 }
 .checklist-subcategory input[type="checkbox"]:checked + span {
     font-style: italic;

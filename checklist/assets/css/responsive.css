@@ -1,0 +1,58 @@
+@media all and (max-width: 1280px) {
+    .card {
+        width: calc(100% / 2 - .5rem)!important;
+    }
+}
+
+@media all and (max-width: 720px) {
+    header .title {
+        font-size: 1.25rem;
+    }
+
+    .card {
+        width: 100%!important;
+    }
+
+    footer {
+        flex-direction: column;
+    }
+
+    footer p {
+        margin: .25rem 0;
+    }
+}
+
+@media all and (max-width: 580px) {
+    header .button {
+        padding: .25rem;
+    }
+
+    header .button span {
+        display: none;
+    }
+
+    header .button svg {
+        margin-top: -.125rem;
+        margin-right: 0;
+    }
+
+    .checklist-category .subtitle {
+        font-size: 1rem;
+    }
+}
+
+@media all and (max-width: 420px) {
+    header .title {
+        font-size: 1rem;
+    }
+}
+
+@media all and (max-width: 360px) {
+    header .title span {
+        display: none;
+    }
+
+    header .title br {
+        display: initial;
+    }
+}
