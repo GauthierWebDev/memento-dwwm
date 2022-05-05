@@ -1,6 +1,6 @@
 [Retourner à l'accueil](./readme.md)
 
-# Les différents AT et CP
+# Les différentes AT et CP
 Après toute la théorie autours du TP, il est temps de parler des AT _(Activités Types)_ !  
 Ces différentes AT permettent de regrouper les notions back-end et front-end, à travers les CP _(Compétences Professionnelles)_.
 
