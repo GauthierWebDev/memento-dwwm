@@ -99,7 +99,7 @@ Petit rappel : En dehors de l'aspect statique, la CP 3 se base sur tous les poin
 > **Note :** Peut-être que tu utilises également une bibliothèque comme `React`, `Vue`.  
 > Il est important de prendre en compte le fait qu'elles agissent sur le DOM, mais n'injectent pas de HTML dans la page.  
 > De ce fait, ton application ne sera pas très bien référencée puisque le contenu de la page sera altéré **après** le chargement du script JS.  
-> Toutefois il y a deux solutions : SSR _(Server Side Rendering)_ et SSG _(Server Side Generating)_.
+> Toutefois il y a deux solutions : SSR _(Server Side Rendering)_ et SSG _(Static Site Generating)_.
 > - https://www.gatsbyjs.com/
 > - https://nextjs.org/
 
