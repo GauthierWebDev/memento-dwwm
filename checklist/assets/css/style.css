@@ -238,7 +238,6 @@ footer p {
 }
 footer svg {
     color: var(--warning);
-    margin: 0 .25rem;
 }
 footer::before {
     content: '';

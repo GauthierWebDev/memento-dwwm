@@ -16,10 +16,10 @@ Une **checklist** ou bien une **todolist** !
 
 Encore faut-il savoir quoi faire, n'hésite donc pas à bien regarder les différents points ci-dessous et dès que c'est clair pour toi, tu peux essayer mon petit template de todolist 😉
 
-Tu peux le retrouver dans ce repo, ou bien directement en ligne [à cette adresse](https://memento-dwwm.gauthierdaniels.fr/).
+Tu peux le retrouver directement en ligne [à cette adresse](https://gauthierwebdev.github.io/memento-dwwm/checklist).
 
 Pour le moment, cette checklist est limitée aux points déjà créés dans les fichiers JSON, mais ce sera mis à jour par la suite pour rendre l'outil encore plus flexible.  
-_(Si tu as des idées de points à rajouter, n'hésite pas non plus à faire une issue directement sur ce repo !)_
+_(Si tu as des idées de points à rajouter, n'hésite pas non plus à faire [une issue directement sur ce repo](https://github.com/GauthierWebDev/memento-dwwm/issues) !)_
 
 ## Table des matières
 1. [À quoi ressemble une soutenance ?](./soutenance.md)
