@@ -1,13 +1,16 @@
-[Retourner à l'accueil](./readme.md)
+[Retourner à l'accueil du référentiel 2018](./index.md)
 
 # À quoi ressemble une soutenance ?
+
 Une soutenance complète, hors tier temps _(aménagement d'épreuve si RQTH par exemple)_, dure 1h30.  
 Durant ta soutenance, tu devras passer par trois phases _(modalités)_ avec des durées déjà établies :
+
 - [Présentation d'un projet réalisé en amont de la session](#présentation-dun-projet-réalisé-en-amont-de-la-session)
 - [Entretien technique](#entretien-technique)
 - [Entretien final](#entretien-final)
 
 ## Présentation d'un projet réalisé en amont de la session
+
 > Durée : 35 minutes
 
 L'objectif de cette modalité est de démontrer le travail réalisé _(aussi bien réalisations personnelles que globales)_ sur le ou les projets que tu présenteras à ton jury.
@@ -15,10 +18,11 @@ L'objectif de cette modalité est de démontrer le travail réalisé _(aussi bie
 Tu as le droit de présenter de un à trois projets à ton jury, à toi de t'organiser le mieux possible pour faire en sorte que tout tienne en 35 minutes au niveau de la présentation !
 
 > **Note :** Si jamais ta présentation dure moins longtemps que 35 minutes, le temps "manquant" ne prolonge
-pas les autres modalités. Autant te dire qu'il est préférable de durer 35 minutes plutôt que 20 minutes
-pour t'assurer que le jury ait le plus d'informations dès le début !
+> pas les autres modalités. Autant te dire qu'il est préférable de durer 35 minutes plutôt que 20 minutes
+> pour t'assurer que le jury ait le plus d'informations dès le début !
 
 ## Entretien technique
+
 > Durée : 40 minutes
 
 Si ton jury n'a pas eu toutes les informations nécessaires ou souhaite creuser davantage pour avoir plus d'éléments sous la main, il te posera des questions d'ordre technique.
@@ -32,11 +36,12 @@ Si tu connais la réponse _(ou pense la connaître)_, n'hésite pas à leur rép
 Par contre, si tu es certain de ne pas avoir la réponse, tu as évidemment le droit de ne pas savoir.
 
 > **Note :** Tout comme pour la première modalité _(Présentation d'un projet réalisé en amont de la session)_,
-le temps non exploité ne sera pas attribué pour la dernière modalité.
+> le temps non exploité ne sera pas attribué pour la dernière modalité.
 
 À l'issue de cette modalité viendra l'entretien final.
 
 ## Entretien final
+
 > Durée : 15 minutes
 
 Ici, ton jury te demandera peut-être de sortir quelques minutes en dehors de la salle de soutenance pour qu'il délibère.  
@@ -45,6 +50,7 @@ Cette délibération n'a pas pour lieu le résultat de ton TP, mais les question
 Tu auras le droit à des questions pour comprendre ta vision et culture du milieu professionnel autours du développement web.
 
 ## Et après ça ?
+
 Et bien, c'est tout !  
 Si tout est conforme pour l'organisme qui te fait passer ce TP, tu es libre de rentrer chez toi après avoir signalé la fin de ton épreuve au surveillant de la session.
 
@@ -57,11 +63,13 @@ N'oublie pas une chose : Si tu es arrivé jusqu'au jour de ta soutenance, c'est 
 Peu importe le résultat de ton TP, ce qui compte le plus c'est d'avancer dans la suite de ta reconversion professionnelle et si ce n'est pas déjà le cas, trouver un stage/entreprise/alternance ou bien te lancer en indépendant si c'est ce que tu souhaites !
 
 ## Et le résultat alors ?
+
 Tout dépendra du temps de validation de la part de la DREETS _(Direction Régionales de l'Économie, de l'Emploi, du Travail et des Solidarités)_.
 
 Une validation administrative peut prendre jusqu'à deux mois _(voire plus si la DREETS est surchargée)_, tu n'auras nul autre choix que d'attendre la validation définitive et administrative de ton passage.
 
 Toutefois, il est bon de noter quelques informations pratiques :
+
 - S'il s'agit de ta première inscription à ce TP, tu as le droit de demander une nouvelle inscription dans les 12 mois qui suivent l'officialisation de ton résultat à la soutenance que tu viens de passer.
 - Si tu valides un CCP _(Certificat de Compétences Professionnelles)_, tu recevras un petit papier attestant que tu as validé un CCP précis :
   - Back-end
@@ -69,4 +77,4 @@ Toutefois, il est bon de noter quelques informations pratiques :
 
 ---
 
-[Retourner à l'accueil](./readme.md)
+[Retourner à l'accueil du référentiel 2018](./index.md)
