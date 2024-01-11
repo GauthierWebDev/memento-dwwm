@@ -27,9 +27,9 @@ _(Si tu as des idées de points à rajouter, n'hésite pas non plus à faire [un
 ## Table des matières
 
 1. [Référentiel 2018-2023 (RNCP31114)](./referentiels/2018/index.md)  
-   1.1 [À quoi ressemble une soutenance ?](./soutenance.md)  
-   1.2 [Les dossiers et documents attendus pour ta soutenance](./dossiers.md)  
-   1.3 [Les différentes AT et CP](./AT.md)  
-   1.4 [Quelques questions qui peuvent être rencontrées en soutenance](./questions.md)
+   1.1 [À quoi ressemble une soutenance ?](./referentiels/2018/soutenance.md)  
+   1.2 [Les dossiers et documents attendus pour ta soutenance](./referentiels/2018/dossiers.md)  
+   1.3 [Les différentes AT et CP](./referentiels/2018/AT.md)
 2. [Référentiel 2023-2028 (RNCP37674)](./referentiels/2023/index.md)
    - En cours de création
+3. [Quelques questions qui peuvent être rencontrées en soutenance](./questions.md)

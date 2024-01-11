@@ -1,4 +1,4 @@
-[Retourner à l'accueil](./readme.md)
+[Retourner à l'accueil général](/readme.md)
 
 # Questions possibles
 
@@ -114,4 +114,4 @@ C'est notamment le cas de [ce repo](https://github.com/simplonco/questions-devwe
 
 ---
 
-[Retourner à l'accueil](./readme.md)
+[Retourner à l'accueil général](/readme.md)
