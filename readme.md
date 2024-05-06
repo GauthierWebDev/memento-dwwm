@@ -2,6 +2,14 @@
 
 > Le guide de préparation au **titre professionnel DWWM** _(Développeur Web et Web Mobile)_ qui te veut du bien !
 
+<p style="background-color: rgba(255, 0, 0, .4); padding: .5em 1em; border-radius: .2em; font-weight: bolder; color: black; line-height: 2em; letter-spacing: .025em;">
+   Memento DWWM est sur le déclin 😰
+   <br>
+   Mais pas de panique, il fait peau neuve à cette adresse : 
+   <br>
+   <a href="https://memento-dev.fr" style="text-decoration: underline;">https://memento-dev.fr</a>
+</p>
+
 ## Préambule
 
 Toi qui viens d'arriver sur ce repo Github, sache que si tu cherches un coup de main pour ta préparation au TP DWWM : tu es tombé au bon endroit !
